@@ -5,9 +5,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using PlatziWebsite.Models;
+using platziSitioWeb.Models;
 
-namespace PlatziWebsite.Controllers
+namespace platziSitioWeb.Controllers
 {
     public class HomeController : Controller
     {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BKNR2IsgTNNd+AF1PgiuXOJuGXzO3rxY3+CGTr2dE6kkACdcHOziuRyC+IQ6KOKf6FbAACwFVw4+H8s/lXvIwA==",
+  "dgSpecHash": "jlNywTYs3X95yAypB+59wWdGlN/FJmTOmSKJuw+73HCoiKw/VJY+67nHMhzSsVwTophWncQljSBLRF7GWAn4RQ==",
   "success": true,
-  "projectFilePath": "F:\\Workspace\\Platzi\\Azure\\1. WebApps\\Platziwebsite\\PlatziWebsite.csproj",
+  "projectFilePath": "F:\\Workspace\\Platzi\\Azure\\1. WebApps\\platziSitioWeb\\platziSitioWeb.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,6 +1,6 @@
 using System;
 
-namespace PlatziWebsite.Models
+namespace platziSitioWeb.Models
 {
     public class ErrorViewModel
     {

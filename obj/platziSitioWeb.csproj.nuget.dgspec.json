@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Workspace\\Platzi\\Azure\\1. WebApps\\Platziwebsite\\PlatziWebsite.csproj": {}
+    "F:\\Workspace\\Platzi\\Azure\\1. WebApps\\platziSitioWeb\\platziSitioWeb.csproj": {}
   },
   "projects": {
-    "F:\\Workspace\\Platzi\\Azure\\1. WebApps\\Platziwebsite\\PlatziWebsite.csproj": {
+    "F:\\Workspace\\Platzi\\Azure\\1. WebApps\\platziSitioWeb\\platziSitioWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Workspace\\Platzi\\Azure\\1. WebApps\\Platziwebsite\\PlatziWebsite.csproj",
-        "projectName": "PlatziWebsite",
-        "projectPath": "F:\\Workspace\\Platzi\\Azure\\1. WebApps\\Platziwebsite\\PlatziWebsite.csproj",
+        "projectUniqueName": "F:\\Workspace\\Platzi\\Azure\\1. WebApps\\platziSitioWeb\\platziSitioWeb.csproj",
+        "projectName": "platziSitioWeb",
+        "projectPath": "F:\\Workspace\\Platzi\\Azure\\1. WebApps\\platziSitioWeb\\platziSitioWeb.csproj",
         "packagesPath": "C:\\Users\\luise\\.nuget\\packages\\",
-        "outputPath": "F:\\Workspace\\Platzi\\Azure\\1. WebApps\\Platziwebsite\\obj\\",
+        "outputPath": "F:\\Workspace\\Platzi\\Azure\\1. WebApps\\platziSitioWeb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -21,15 +21,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -40,8 +40,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
